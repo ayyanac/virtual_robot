@@ -209,3 +209,4 @@ CHANGES 3/23/2019
     5. Added distance sensors to all robot configurations to measure distance from walls.
     6. Replaced LineFollow example opMode with MechBotAutoDemo, a line follower that actually works.
 
+Alex made his first commit
